@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Amazon Clone",
+    "desc": "Amazon clone app using React JS. Built using JavaScript, SQLite, Firebase,HTML/CSS",
+    "image": "Aamazon",
+    "category": "android",
+    "links": {
+      "view": "https://ecom-amazon-alokjha1999s-projects.vercel.app/",
+      "code": "https://github.com/Alokjha1999/Ecom-Amazon"
+    }
+  },
+  {
+    "name": "Portfolio",
+    "desc": "Portfolio app using React JS.",
+    "image": "Flipkart",
+    "category": "basicweb",
+    "links": {
+      "view": "https://alok-tech-port.vercel.app/",
+      "code": "https://github.com/Alokjha1999/AlokTech-Port"
+    }
+  },
+  {
+    "name": "My Website",
+    "desc": "Alok Tech",
+    "image": "Living",
+    "category": "React JS",
+    "links": {
+      "view": "https://alok-tech-website.vercel.app/",
+      "code": "https://github.com/Alokjha1999/AlokTech-Website"
+    }
+  },
+  {
+    "name": "Movie App",
+    "desc": "Movie App using React JS.",
+    "image": "Movie",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/ak28",
+      "code": "https://github.com/Alokjha1999/CineStream-application"
+    }
+  },
+  
+  {
+    "name": " Timer React",
+    "desc": "Timer App using React JS.",
+    "image": "Timer",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.linkedin.com/ak28",
+      "code": "https://github.com/Alokjha1999/Timer-React"
+    }
+  },
+  {
+    "name": "Food Booking",
+    "desc": "ReactJS Basic food booking app.",
+    "image": "Food",
+    "category": "React JS",
+    "links": {
+      "view": "https://food-order-app-ecru-nu.vercel.app/",
+      "code": "https://github.com/Alokjha1999/Food-order-app "
+    }
+  },
+  {
+    "name": "Font Awesome-Projects",
+    "desc": "Full-Stack project Font Awesome Project dashboard which is collection of projects built on the React library.",
+    "image": "Font",
+    "category": "React JS",
+    "links": {
+      "view": "https://www.linkedin.com/ak28",
+      "code": "https://github.com/Alokjha1999/Font-Awesome-Clone "
+    }
+  },
+  {
+    "name": "Telegram React JS",
+    "desc": "Telegram Clone Using React JS. With all major features.",
+    "image": "Telegram",
+    "category": "basicweb",
+    "links": {
+      "view": "https://telegram-clone-blond.vercel.app/",
+      "code": "https://github.com/Alokjha1999/Telegram-Clone "
+    }
+  },
+  {
+    "name": "Chat Website",
+    "desc": "This Chat website is specially build to showcase Chaating feature.",
+    "image": "Chat",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.linkedin.com/ak28",
+      "code": "https://github.com/Alokjha1999/React-Chat"
+    }
+  },
+  {
+    "name": "Online Learning App",
+    "desc": "Online learning app using React Js.",
+    "image": "Edu",
+    "category": "React JS",
+    "links": {
+      "view": "https://www.linkedin.com/ak28",
+      "code": "https://github.com/Alokjha1999/Eduhub-Website"
+    }
+  }
+]
+  
